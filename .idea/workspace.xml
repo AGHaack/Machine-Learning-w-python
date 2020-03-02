@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0f24e85e-8b63-46ef-b19c-0912f0798ee2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YXr8DsZ9bGyJlTu6zCi9gG7a9D" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/K Means/K Means Working File.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\agrif\PycharmProjects\tensorEnv\Linear Regression" />
+      <recent name="C:\Users\agrif\PycharmProjects\tensorEnv\KNN" />
+      <recent name="C:\Users\agrif\PycharmProjects\tensorEnv" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.K Means">
+    <configuration name="K Means" type="PythonConfigurationType" factoryName="Python">
+      <module name="tensorEnv" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\agrif\Anaconda3\envs\tensor\pythonw.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/K Means" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/K Means/K Means Working File.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SVM" type="PythonConfigurationType" factoryName="Python">
+      <module name="tensorEnv" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\agrif\Anaconda3\envs\tensor\pythonw.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SVM" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SVM/SVM Working.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python">
+      <module name="tensorEnv" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\agrif\Anaconda3\envs\tensor\pythonw.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\agrif\PycharmProjects\tensorEnv\Linear Regression\Regression Working File.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.run" />
+      <item itemvalue="Python.SVM" />
+      <item itemvalue="Python.K Means" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f24e85e-8b63-46ef-b19c-0912f0798ee2" name="Default Changelist" comment="" />
+      <created>1583099618754</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583099618754</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2054" y="332" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583184475893">
+      <screen x="1920" y="313" width="1360" height="728" />
+    </state>
+    <state x="2054" y="332" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680/1920.313.1360.728@1920.313.1360.728" timestamp="1583184475893" />
+    <state x="2379" y="431" key="FileChooserDialogImpl" timestamp="1583184469676">
+      <screen x="1920" y="313" width="1360" height="728" />
+    </state>
+    <state x="2379" y="431" key="FileChooserDialogImpl/0.0.1280.680/1920.313.1360.728@1920.313.1360.728" timestamp="1583184469676" />
+    <state width="1339" height="179" key="GridCell.Tab.0.bottom" timestamp="1583185409167">
+      <screen x="1920" y="313" width="1360" height="728" />
+    </state>
+    <state width="1339" height="179" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.313.1360.728@1920.313.1360.728" timestamp="1583185409167" />
+    <state width="1339" height="179" key="GridCell.Tab.0.center" timestamp="1583185409166">
+      <screen x="1920" y="313" width="1360" height="728" />
+    </state>
+    <state width="1339" height="179" key="GridCell.Tab.0.center/0.0.1280.680/1920.313.1360.728@1920.313.1360.728" timestamp="1583185409166" />
+    <state width="1339" height="179" key="GridCell.Tab.0.left" timestamp="1583185409166">
+      <screen x="1920" y="313" width="1360" height="728" />
+    </state>
+    <state width="1339" height="179" key="GridCell.Tab.0.left/0.0.1280.680/1920.313.1360.728@1920.313.1360.728" timestamp="1583185409166" />
+    <state width="1339" height="179" key="GridCell.Tab.0.right" timestamp="1583185409167">
+      <screen x="1920" y="313" width="1360" height="728" />
+    </state>
+    <state width="1339" height="179" key="GridCell.Tab.0.right/0.0.1280.680/1920.313.1360.728@1920.313.1360.728" timestamp="1583185409167" />
+    <state width="1339" height="223" key="GridCell.Tab.1.bottom" timestamp="1583164551536">
+      <screen x="1920" y="313" width="1360" height="728" />
+    </state>
+    <state width="1339" height="223" key="GridCell.Tab.1.bottom/0.0.1280.680/1920.313.1360.728@1920.313.1360.728" timestamp="1583164551536" />
+    <state width="1339" height="223" key="GridCell.Tab.1.center" timestamp="1583164551536">
+      <screen x="1920" y="313" width="1360" height="728" />
+    </state>
+    <state width="1339" height="223" key="GridCell.Tab.1.center/0.0.1280.680/1920.313.1360.728@1920.313.1360.728" timestamp="1583164551536" />
+    <state width="1339" height="223" key="GridCell.Tab.1.left" timestamp="1583164551536">
+      <screen x="1920" y="313" width="1360" height="728" />
+    </state>
+    <state width="1339" height="223" key="GridCell.Tab.1.left/0.0.1280.680/1920.313.1360.728@1920.313.1360.728" timestamp="1583164551536" />
+    <state width="1339" height="223" key="GridCell.Tab.1.right" timestamp="1583164551536">
+      <screen x="1920" y="313" width="1360" height="728" />
+    </state>
+    <state width="1339" height="223" key="GridCell.Tab.1.right/0.0.1280.680/1920.313.1360.728@1920.313.1360.728" timestamp="1583164551536" />
+    <state x="2101" y="319" key="SettingsEditor" timestamp="1583099965914">
+      <screen x="1920" y="313" width="1360" height="728" />
+    </state>
+    <state x="2101" y="319" key="SettingsEditor/0.0.1280.680/1920.313.1360.728@1920.313.1360.728" timestamp="1583099965914" />
+    <state x="2296" y="501" key="com.intellij.ide.util.TipDialog" timestamp="1583162404655">
+      <screen x="1920" y="313" width="1360" height="728" />
+    </state>
+    <state x="2296" y="501" key="com.intellij.ide.util.TipDialog/0.0.1280.680/1920.313.1360.728@1920.313.1360.728" timestamp="1583162404655" />
+  </component>
+</project>
